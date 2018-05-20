@@ -1,0 +1,135 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: auto;
+}
+
+.filmes{
+    margin: auto;
+    display: inline-block;
+    margin-top:30px;
+}
+
+.filmes li{
+    display: inline-block;
+    margin: auto;
+}
+
+.filmes li h1{
+    display: inline-block;
+    margin: auto;
+    font-size: inherit;
+}
+
+.filmes li img{
+    display: block;
+    margin: auto;
+    width: 60%;
+    height:307px;
+}
+
+.filmes h1{
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: black;
+
+}
+a:hover{
+    color: black;
+}
+
+.filme_detail{
+    margin: 25px 100px 25px 100px;
+}
+
+.filme_detail img{
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.filme_detail h1{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.filme_detail #texto{
+    text-align: left;
+}
+.filme_detail h5{
+    font-style: italic;
+}
+
+.filme_detail h3{
+    font-size: 15px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.filme_detail h4{
+    font-size: 14px;
+    margin: auto;
+}
+
+.filme_detail h6{
+    font-size: 10px;
+    font-weight: bold;
+    margin: auto;
+}
+
+#icon_star{
+    margin-top: 20px;
+    color: gold;
+    size: 20px;
+}
+
+#news{
+    display: inline;
+    margin-top: 100px;
+}
+
+.img_news{
+    max-width: 300px;
+    margin: auto;
+    display: inline;
+    max-height: 150px;
+}
+
+.cast{
+    display: inline-block;
+    margin: 10px;
+    float: left;
+    max-width: 120px;
+    max-height: 128px;
+    min-width: 120px;
+}
+.cast h3{
+    font-size: inherit;
+    font-weight: bold;
+}
+.cast p{
+    font-size:10px ;
+}
+
+.img-circle{
+    width: 60px;
+    height: 60px;
+}
+
+#movie_recommendations{
+    width: 100%;
+    display: inline-block;
+}
+
+.recommendations{
+    display: inline;
+}
+
+.recommendations img{
+    margin: 5px;
+    width: 155px;
+    height: 195px;
+}
