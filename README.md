@@ -14,6 +14,7 @@ npm start
 ```
 
 You can request an API key by logging in to your account on [TMDb](https://www.themoviedb.org/login) and clicking the "API" link in the left hand side bar of your account page.
+Also, in MovieDetails.JS, please insert your Youtube API Key.
 
 You can see more about this project in this [link](https://www.behance.net/gallery/65346891/Movie-DB)
 
