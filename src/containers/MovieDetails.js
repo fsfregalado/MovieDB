@@ -19,7 +19,7 @@ const api_recommendations= "https://api.themoviedb.org/3/movie/";
 const api_key_recommendations="/similar?api_key=2039021d2cc949065ad9fb862ad9fbb6&language=en-US&page=1&results=5";
 
 //url do youtube
-const api_yt="AIzaSyDLMtiuInqmjar3XEaNQapKXQ9w1Bc03K4";
+const api_yt=[API FROM YOUTUBE];
 
 
 
